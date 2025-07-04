@@ -25,3 +25,18 @@ The primary data source of Data used here is from the Palmora management team
 -Palmoria Group is indeed having gender inequality challenges.
 
 Palmoria Group according to analysis did'nt meet up to pay employees a minimum of $90,000
+
+
+## About me
+**JEROME Oluwaseun Oluwastosin**
+
+Digital Forensics Analyst | Data Analyst | Pastor | Intelligence Analyst | Investigator
+
+I am Passionate about Statistics and exploring Data for intelligent and actionable decision making.
+
+## Contact
+**-Email: jeromeseun@yahoo.com**
+
+**-Phone Number: +2348038614506**
+
+**Linkedin: https://www.linkedin.com/in/oluwaseun-jerome-5b7656147**
