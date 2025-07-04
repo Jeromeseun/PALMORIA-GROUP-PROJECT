@@ -17,3 +17,5 @@ The primary data source of Data used here is from the Palmora management team
 
 ## Analysis file
   
+<img width="770" alt="PALMORIA DASHBOARD" src="https://github.com/user-attachments/assets/d024d9b2-9e58-4e25-a029-e6c6a4751582" />
+<img width="781" alt="PALMORIA TABLE" src="https://github.com/user-attachments/assets/1ff712b3-186b-4b83-a7b5-d88ecb27074d" />
