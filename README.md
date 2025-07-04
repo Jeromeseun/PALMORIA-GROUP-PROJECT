@@ -9,11 +9,11 @@ This data analysis project aims to generate insight into Palmoria Gender biase a
 The primary data source of Data used here is from the Palmora management team
 
 ## Tools used
--Power BI
+**-Power BI**
 
-  -Power Query
+    -Power Query
   
-  -Visualization on power BI
+    -Visualization on power BI
 
-
+## Analysis file
   
