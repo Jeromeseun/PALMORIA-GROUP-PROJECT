@@ -3,10 +3,10 @@ This is a Portfolio for my DSA Data Analysis Capstone Project with Incubator Hub
 
 ## Project Overview
 
-This data analysis project aims to generate insight into Palmoria Gender inequality in it's three (3) Regions and providing solution through analysis.
+This data analysis project aims to generate insight into Palmoria's Gender inequality in its three (3) Regions and provide a solution through analysis.
 
 ## Data Source
-The primary data source of Data used here is from the Palmora management team
+The primary data source used here is from the Palmora management team
 
 ## Tools used
 **-Power BI**
@@ -24,11 +24,11 @@ The primary data source of Data used here is from the Palmora management team
 
 -Palmoria Group is indeed having gender inequality challenges.
 
-Palmoria Group according to analysis did'nt meet up to pay employees a minimum of $90,000
+Palmoria Group, according to the analysis, did not meet up to pay employees a minimum of $90,000
 
 
 ## About me
-**JEROME Oluwaseun Oluwastosin**
+**JEROME Oluwaseun Oluwatosin**
 
 Digital Forensics Analyst | Data Analyst | Pastor | Intelligence Analyst | Investigator
 
